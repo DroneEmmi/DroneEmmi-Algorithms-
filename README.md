@@ -1,4 +1,6 @@
 # DroneEmmi-Algorithms-
 
+This is done for Graduation Project CSE496.
+Advisor: Erkan Zergeroglu
 
-All the algorithms here implemented with python and works well.
+Contributors: Ahmet Okur, Ömer Kaan Uslu
